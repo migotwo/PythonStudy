@@ -7,3 +7,5 @@ elif 30 <= int(age) and  40>= int(age):
     print("有点大！！！")
 else:
     print("您还未成年！！")
+
+    
